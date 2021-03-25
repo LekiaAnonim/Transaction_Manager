@@ -1,0 +1,14 @@
+Date,Name of Customer,Phone Number,Amount Paid,Number of Kg,Status,Debt,Credit
+"December 25, 2017 20:05:37",Lekia,8137110189,2800,8.0,Not Cleared,200,0.0
+"December 25, 2017 20:05:38",Peace,8137110181,2900,8.0,Not Cleared,100,0.0
+"July 30, 2018 20:05:39",Esther,8137110185,3000,7.0,Cleared,0,0.0
+"July 30, 2018 20:05:40",Prosper,8137110185,3000,9.0,Not Cleared,50,200.0
+"August 10, 2019 20:05:41",Perfect,8135447775,1450,4.0,Not Cleared,50,0.0
+"August 10, 2019 20:05:42",DEBORAH   LEKIA,8135447775,1450,4.0,Not Cleared,50,
+"January 15, 2020 20:05:43",DEBORAH   LEKIA,8135447775,1450,4.0,Not Cleared,50,
+"January 15, 2020 20:05:44",Gospel,7032034154,4200,10.0,Cleared,0,200.0
+"February 16, 2021 20:05:45",Etiene,7031399916,4500,10.0,Not Cleared,500,0.0
+"February 16, 2021 20:05:46",Faith,9055205594,2940,7.0,Not Cleared,1060,0.0
+"February 17, 2021",Miracle Akpaudo,9072375884,2800,7.0,Cleared,0,0.0
+"February 19, 2021",Ada,7030199912,900,2.2,Cleared,0,0.0
+"March 22, 2021",Emeka,9055945520,1500,3.75,Cleared,0,0.0
