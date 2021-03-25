@@ -1,1 +1,5 @@
-"C:\Users\TOSHIBA\Desktop\PilotXLab\Transaction Manager\Transaction_Manager\TM.exe"
+TM.exe
+venv 
+*.pyc 
+.env 
+.DS_Store
